@@ -1,5 +1,6 @@
 # Uppgift: Gör sidan responsiv
 Er uppgift är att göra denna statiska nyhetsssida responsiv.
+
 Förslag: Använd teknikerna som finns i exemplen på https://github.com/persla/responsive_web_design
 
 1. Öppna PowerShell på din dator.
